@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a258d1e4-8265-4907-9304-c092ce8a0a7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/C1_ABCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C2_printIntString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C1_ABCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C1_ABCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C2_printIntString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C2_printIntString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C1_ABCheck.runner.executor": "Run",
     "TestNG.C2_printIntString.printIntString.executor": "Run",
+    "TestNG.C2_printIntString.printIntString2.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -52,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C2_printIntString.printIntString2">
+  <component name="RunManager" selected="TestNG.C1_ABCheck.runner">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Challenge300" />
@@ -62,6 +64,18 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C1_ABCheck.runner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Challenge300" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C1_ABCheck" />
+      <option name="METHOD_NAME" value="runner" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C1_ABCheck.runner" />
         <item itemvalue="TestNG.C2_printIntString.printIntString2" />
         <item itemvalue="TestNG.C2_printIntString.printIntString" />
         <item itemvalue="Application.Main" />

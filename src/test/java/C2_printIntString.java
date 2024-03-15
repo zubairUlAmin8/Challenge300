@@ -20,7 +20,6 @@ public class C2_printIntString {
                 character+=temp;
             }
         }
-
         System.out.println("Number String: "+ num);
         System.out.println("Character String: "+ character);
     }
