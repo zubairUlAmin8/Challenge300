@@ -20,7 +20,6 @@ public class C1_ABCheck
         str = str.toLowerCase();
         for(int i=0; i<str.length()-4; i++){
 //            System.out.println(str.charAt(i) +"= " +str.charAt(i + 4));
-
             if (str.charAt(i) == 'a' && str.charAt(i + 4) == 'b') {
                 return true;
             }else if (str.charAt(i) == 'b' && str.charAt(i + 4) == 'a'){
