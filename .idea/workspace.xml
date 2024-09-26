@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a258d1e4-8265-4907-9304-c092ce8a0a7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/C4_PrintArrayWithoutLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AAAAAPrograme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C11_FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C13_PrintCommonElementsOfTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C16_HashmapAddAndPrintData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C17_ProductWithoutMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C18_RemoveWhitespacefromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C20_AnagramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C21_CountDigitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C21_CountNoOfVowelsAndConsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C23_FindLargestNumberWithoutIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C6_checkPalindromesUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C7_Find2ndLargestFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Sorting/S1_SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C3_PrintNumberWithoutLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C3_PrintNumberWithoutLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C4_PrintArrayWithoutLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C4_PrintArrayWithoutLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +51,34 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C10_isPrime.test.executor": "Run",
+    "TestNG.C11_FibonacciSeries.test.executor": "Run",
+    "TestNG.C11_Fictorial.test.executor": "Run",
+    "TestNG.C12_Factorial.test.executor": "Run",
+    "TestNG.C13_FindTheOccurrenceOfCharacter.test.executor": "Run",
+    "TestNG.C13_PrintCommonElementsOfTwoArray.test.executor": "Run",
+    "TestNG.C14_FindFiveConsecutiveNumbersWhoseSumis850.test.executor": "Run",
+    "TestNG.C15_SwapNumberWithThirdVariable.test.executor": "Run",
+    "TestNG.C16_HashmapAddAndPrintData.test.executor": "Run",
+    "TestNG.C17_ProductWithoutMultiplication.test.executor": "Run",
+    "TestNG.C18_RemoveWhitespacefromString.test.executor": "Run",
+    "TestNG.C19_FindAvgFromNumberOfList.test.executor": "Run",
     "TestNG.C1_ABCheck.runner.executor": "Run",
+    "TestNG.C20_AnagramChecker.test.executor": "Run",
+    "TestNG.C21_CountDigitOfNumber.test.executor": "Run",
+    "TestNG.C21_CountNoOfVowelsAndConsonants.test.executor": "Run",
+    "TestNG.C23_FindLargestNumberWithoutIfElse.test.executor": "Run",
+    "TestNG.C2_StringCombinations.test.executor": "Run",
     "TestNG.C2_printIntString.printIntString.executor": "Run",
     "TestNG.C2_printIntString.printIntString2.executor": "Run",
     "TestNG.C3_PrintNumberWithoutLoop.testFunction.executor": "Run",
+    "TestNG.C4_PrintArrayWithoutLoop.testFunction.executor": "Run",
+    "TestNG.C5_countPalindromes.test.executor": "Run",
+    "TestNG.C6_checkPalindromesUsingStack.test.executor": "Run",
+    "TestNG.C7_Find2ndLargestFromArray.test.executor": "Run",
+    "TestNG.C8_FindUniqueCharInString.executor": "Run",
+    "TestNG.C8_FindUniqueCharInString.test.executor": "Run",
+    "TestNG.C9_ReverseString.test.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -57,12 +93,12 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C4_PrintArrayWithoutLoop.testFunction">
-    <configuration name="C1_ABCheck.runner" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C23_FindLargestNumberWithoutIfElse.test">
+    <configuration name="C12_Factorial.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Challenge300" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C1_ABCheck" />
-      <option name="METHOD_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="C12_Factorial" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -70,11 +106,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_printIntString.printIntString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C21_CountNoOfVowelsAndConsonants.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Challenge300" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C2_printIntString" />
-      <option name="METHOD_NAME" value="printIntString" />
+      <option name="MAIN_CLASS_NAME" value="C21_CountNoOfVowelsAndConsonants" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -82,11 +118,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_printIntString.printIntString2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C22_StringCombinations.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Challenge300" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C2_printIntString" />
-      <option name="METHOD_NAME" value="printIntString2" />
+      <option name="MAIN_CLASS_NAME" value="C22_StringCombinations" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C23_FindLargestNumberWithoutIfElse.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Challenge300" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C23_FindLargestNumberWithoutIfElse" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,25 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_PrintArrayWithoutLoop.testFunction" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Challenge300" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C4_PrintArrayWithoutLoop" />
-      <option name="METHOD_NAME" value="testFunction" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C4_PrintArrayWithoutLoop.testFunction" />
+        <item itemvalue="TestNG.C23_FindLargestNumberWithoutIfElse.test" />
         <item itemvalue="TestNG.C3_PrintNumberWithoutLoop.testFunction" />
-        <item itemvalue="TestNG.C1_ABCheck.runner" />
-        <item itemvalue="TestNG.C2_printIntString.printIntString2" />
-        <item itemvalue="TestNG.C2_printIntString.printIntString" />
+        <item itemvalue="TestNG.C12_Factorial.test" />
+        <item itemvalue="TestNG.C22_StringCombinations.test" />
+        <item itemvalue="TestNG.C21_CountNoOfVowelsAndConsonants.test" />
       </list>
     </recent_temporary>
   </component>
@@ -156,5 +192,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/C8_FindUniqueCharInString.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

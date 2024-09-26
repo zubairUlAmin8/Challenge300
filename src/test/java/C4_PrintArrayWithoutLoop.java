@@ -8,12 +8,9 @@ public class C4_PrintArrayWithoutLoop {
 
         }
     }
-
     @Test
     public void testFunction() {
         int[] arr ={1, 3, 4 , 6};
         printArrayElement(arr, 4);
     }
-
-
 }
